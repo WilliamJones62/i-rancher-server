@@ -1,0 +1,2 @@
+class CowCover < ApplicationRecord
+end

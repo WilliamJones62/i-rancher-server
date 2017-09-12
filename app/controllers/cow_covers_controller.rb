@@ -1,0 +1,2 @@
+class CowCoversController < ApplicationController
+end

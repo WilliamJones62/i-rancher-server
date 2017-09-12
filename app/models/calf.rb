@@ -1,0 +1,2 @@
+class Calf < ApplicationRecord
+end
